@@ -1,10 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Juan%20Sebastián%20Rodríguez%20Casas&fontSize=36&fontColor=e0e0e0&fontAlignY=38&desc=Abogado%20·%20Investigador%20·%20Aprendiz%20del%20Código&descSize=16&descAlignY=58&descColor=a0b4c8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2744,100:1a3a5c&height=210&section=header&text=Juan%20Sebasti%C3%A1n%20Rodr%C3%ADguez%20Casas&fontSize=34&fontColor=e8edf2&fontAlignY=38&desc=Egresado%20de%20Derecho%20%20%7C%20Judicante%20Consejo%20de%20Estado%20%7C%20Universidad%20Libre&descSize=15&descAlignY=58&descColor=7eaacc" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian09781/)
-[![Universidad Libre](https://img.shields.io/badge/Universidad%20Libre-Colombia-8B0000?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.unilibre.edu.co/)
-[![Colombia](https://img.shields.io/badge/🇨🇴%20Colombia-Cali,%20Valle%20del%20Cauca-yellow?style=for-the-badge)](https://es.wikipedia.org/wiki/Colombia)
+<br/>
+
+[![Portafolio Web](https://img.shields.io/badge/🌐%20Portafolio%20Web-sebastian--09781.blogspot.com-0f2744?style=for-the-badge&logoColor=white)](https://sebastian-09781.blogspot.com/)
+[![Linktree](https://img.shields.io/badge/🌿%20Linktree-sebastian09781-39E09B?style=for-the-badge&logoColor=white)](https://linktr.ee/sebastian09781)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian09781/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sebastian09781/)
+[![Bogotá 🇨🇴](https://img.shields.io/badge/📍%20Bogotá-Colombia-FFCD00?style=for-the-badge)](https://es.wikipedia.org/wiki/Bogot%C3%A1)
 
 </div>
 
@@ -12,49 +19,102 @@
 
 ## 👤 Sobre mí
 
-Soy **estudiante de Derecho** en la **Universidad Libre de Colombia**, con enfoque en Derecho Laboral, Administrativo y Constitucional. Me apasiona la investigación sociojurídica, el activismo estudiantil y la intersección entre el Derecho y las nuevas tecnologías.
+Soy **egresado de Derecho de la Universidad Libre de Colombia**, actualmente realizando mi **judicatura en el Consejo de Estado — Sección Primera**. Me apasionan el Derecho Administrativo, la investigación sociojurídica, la educación y la tecnología como herramienta de transformación social.
 
-Actualmente me encuentro en un proceso de aprendizaje continuo, explorando el mundo de la programación como herramienta para potenciar el trabajo jurídico e investigativo.
+Creo que el conocimiento jurídico y las herramientas digitales pueden trabajar juntos para democratizar el acceso a la justicia y potenciar el activismo ciudadano. Por eso, además de mi formación legal, me encuentro en constante aprendizaje del mundo del código.
+
+> *"El Derecho sin tecnología pierde alcance; la tecnología sin Derecho pierde rumbo."*
+
+---
+
+## ⚖️ Experiencia Profesional
+
+### 🏛️ Judicante — Consejo de Estado de Colombia
+**Feb. 2026 – Actualidad · Bogotá, Colombia**
+
+Estudio y análisis de expedientes de la jurisdicción contencioso-administrativa, revisión de jurisprudencia y normativa aplicable, elaboración de documentos de sustanciación y seguimiento de actuaciones judiciales en la **Sección Primera**.
+
+`Derecho Público` `Derecho Administrativo` `Jurisdicción Contencioso-Administrativa`
+
+---
+
+### 📚 Monitor Académico — Área de Derecho Laboral | Universidad Libre
+**Feb. 2025 – Dic. 2025 · 11 meses · Bogotá, Colombia**
+
+Apoyo a la docencia en preparación de material de enseñanza, asesoría a estudiantes en trabajos de investigación, evaluación académica y vigilancia de exámenes bajo supervisión del profesor titular.
+
+`Formación Docente` `Investigación Jurídica` `Derecho Laboral`
+
+---
+
+## 🚀 Proyectos
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏙️ <a href="https://engativaavanza.blogspot.com/">Engativá Avanza</a></h3>
+      <p>Colectivo juvenil de la localidad de Engativá que conecta comunidad mediante noticias, propuestas y herramientas de participación ciudadana y liderazgo juvenil.</p>
+      <img src="https://img.shields.io/badge/Activismo-Juvenil-0f2744?style=flat-square" />
+      <img src="https://img.shields.io/badge/Bogotá-2025–Actualidad-7eaacc?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://sebastian-09781.blogspot.com/">Portafolio Web de Servicios</a></h3>
+      <p>Plataforma integral de asesoría jurídica, apoyo académico y producción de contenido creativo. Refleja mi compromiso con el Derecho, la educación y el activismo.</p>
+      <img src="https://img.shields.io/badge/LegalTech-Portafolio-0f2744?style=flat-square" />
+      <img src="https://img.shields.io/badge/Unilibre-2023–Actualidad-7eaacc?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚖️ <a href="https://www.instagram.com/minabalanta_ul/">Semillero Mina Balanta</a></h3>
+      <p>Semillero autónomo y multidisciplinario de Derecho Procesal en la Universidad Libre. Producción académica y participación en concursos jurídicos nacionales.</p>
+      <img src="https://img.shields.io/badge/Derecho-Procesal-0f2744?style=flat-square" />
+      <img src="https://img.shields.io/badge/Unilibre-2023–Actualidad-7eaacc?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎙️ <a href="https://tr.ee/s4bLtWPbXJ">El Parche Laboral</a></h3>
+      <p>Podcast sobre derechos laborales colombianos. Episodios sobre cesantías, IUS VARIANDI, estabilidad laboral, vacaciones y más. Co-autor y editor de contenidos.</p>
+      <img src="https://img.shields.io/badge/Podcast-Derecho%20Laboral-0f2744?style=flat-square" />
+      <img src="https://img.shields.io/badge/Unilibre-2023–Actualidad-7eaacc?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 <a href="https://librespodemosunilibre.blogspot.com/">Libres Podemos X Unamos</a></h3>
+      <p>Plataforma estudiantil de representación, noticias, eventos y rendición de cuentas en la Universidad Libre. Espacio de emprendimiento y activismo estudiantil.</p>
+      <img src="https://img.shields.io/badge/Representación-Estudiantil-0f2744?style=flat-square" />
+      <img src="https://img.shields.io/badge/Unilibre-2023–Actualidad-7eaacc?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>📖 <a href="https://www.youtube.com/@IniciativaPopularEducativa?sub_confirmation=1">Iniciativa Popular Educativa</a></h3>
+      <p>Canal de recursos educativos para democratizar el acceso a la educación superior pública en Colombia. Materiales de estudio para aspirantes a universidades públicas.</p>
+      <img src="https://img.shields.io/badge/Educación-Popular-0f2744?style=flat-square" />
+      <img src="https://img.shields.io/badge/YouTube-2019–2021-7eaacc?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎯 Áreas de Especialización
 
 ```
-"El conocimiento del derecho sin el conocimiento de la realidad es vacío;
- el conocimiento de la realidad sin el derecho es ciego."
+🏛️  Derecho Administrativo        ⚖️  Derecho Laboral
+📋  Derecho Constitucional         🔍  Derecho Procesal
+💡  LegalTech / Derecho Digital    🎓  Investigación Sociojurídica
+🤝  Participación Ciudadana        📢  Activismo Juvenil
 ```
 
 ---
 
-## 🏛️ Experiencia & Roles
+## 💻 En el mundo del código
 
-| Rol | Descripción |
-|-----|-------------|
-| 📚 **Monitor Académico** | Área de Derecho Laboral — Universidad Libre de Colombia |
-| 🔬 **Auxiliar de Investigación** | Mapeo de contenidos investigativos, Facultades de la Unilibre Seccional Bogotá |
-| 🎙️ **Representante Estudiantil** | Plataforma *Libres Podemos X Unamos* |
-| ⚖️ **Consultorio Jurídico** | Programa *Conciliando Ando* — Juzgado 9° Municipal de pequeñas causas laborales |
-| 📻 **Autor & Editor** | Podcast *El Parche Laboral* — divulgación de derechos laborales en Colombia |
-
----
-
-## 🎯 Áreas de Interés Jurídico
-
-```
-⚖️  Derecho Laboral          🏛️  Derecho Constitucional
-📋  Derecho Administrativo   🔒  Derecho Informático
-🌍  Derechos Humanos         💡  Innovación Legal (LegalTech)
-```
-
----
-
-## 💻 En el Mundo del Código
-
-Soy un aprendiz entusiasta. Mis repositorios reflejan proyectos en desarrollo donde combino mi formación jurídica con herramientas tecnológicas.
+Aprendiz entusiasta que combina formación jurídica con herramientas tecnológicas para crear soluciones con impacto social:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=blogger&logoColor=white)
 
 > *"En constante aprendizaje — porque el código, como el derecho, también transforma realidades."*
 
@@ -64,21 +124,9 @@ Soy un aprendiz entusiasta. Mis repositorios reflejan proyectos en desarrollo do
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO_GITHUB&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+![GitHub Streak](https://streak-stats.demolab.com?user=sebastian09781&theme=dark&hide_border=true&background=0d1117&ring=7eaacc&fire=7eaacc&currStreakLabel=7eaacc)
 
 </div>
-
----
-
-## 📚 Publicaciones & Proyectos Destacados
-
-- 🎙️ **El Parche Laboral** — Podcast sobre derechos laborales colombianos. Co-autor y editor de contenidos sobre cesantías, IUS VARIANDI, estabilidad laboral y más.
-- 📄 **Investigación Sociojurídica** — Auxiliar en mapeo y catalogación de recursos investigativos de la Universidad Libre de Colombia.
-- 🤝 **Iniciativa Popular Educativa** — Apoyo a estudiantes colombianos en su acceso a la educación superior pública.
 
 ---
 
@@ -86,10 +134,17 @@ Soy un aprendiz entusiasta. Mis repositorios reflejan proyectos en desarrollo do
 
 <div align="center">
 
-¿Tienes un proyecto, investigación o simplemente quieres conectar?
+¿Tienes una propuesta, proyecto de investigación o simplemente quieres conectar?
 
-[![LinkedIn](https://img.shields.io/badge/Conectemos%20en%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian09781/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sebastian09781/)
+<br/>
+
+[![Portafolio Web](https://img.shields.io/badge/🌐%20Visita%20mi%20Portafolio-sebastian--09781.blogspot.com-0f2744?style=for-the-badge)](https://sebastian-09781.blogspot.com/)
+[![Linktree](https://img.shields.io/badge/🌿%20Todos%20mis%20links-linktr.ee/sebastian09781-39E09B?style=for-the-badge)](https://linktr.ee/sebastian09781)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian09781/)
+[![Email](https://img.shields.io/badge/juans--rodriguezc@unilibre.edu.co-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juans-rodriguezc@unilibre.edu.co)
 
 </div>
 
@@ -97,10 +152,10 @@ Soy un aprendiz entusiasta. Mis repositorios reflejan proyectos en desarrollo do
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a5c,50:0f2744,100:0d1117&height=120&section=footer" />
 
-*Hecho con 🤍 desde Colombia 🇨🇴*
+*Hecho con 🤍 desde Bogotá, Colombia 🇨🇴*
 
-![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&color=0077B5&style=flat-square&label=Visitas+al+perfil)
+![Profile Views](https://komarev.com/ghpvc/?username=sebastian09781&color=7eaacc&style=flat-square&label=Visitas+al+perfil)
 
 </div>
