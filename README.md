@@ -120,16 +120,6 @@ Aprendiz entusiasta que combina formación jurídica con herramientas tecnológi
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sebastian09781&theme=dark&hide_border=true&background=0d1117&ring=aaaaaa&fire=aaaaaa&currStreakLabel=aaaaaa)
-
-</div>
-
----
-
 ## 📬 Contacto
 
 <div align="center">
