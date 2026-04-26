@@ -41,7 +41,7 @@ Estudio y análisis de expedientes de la jurisdicción contencioso-administrativ
 ### 📚 Monitor Académico — Área de Derecho Laboral | Universidad Libre
 **Feb. 2025 – Dic. 2025 · 11 meses · Bogotá, Colombia**
 
-Apoyo a la docencia en preparación de material de enseñanza, asesoría a estudiantes en trabajos de investigación, evaluación académica y vigilancia de exámenes bajo supervisión del profesor titular.
+Apoye a la docencia en preparación de material de enseñanza, asesoría a estudiantes en trabajos de investigación, evaluación académica y vigilancia de exámenes bajo supervisión del profesor titular.
 
 `Formación Docente` `Investigación Jurídica` `Derecho Laboral`
 
@@ -72,7 +72,7 @@ Apoyo a la docencia en preparación de material de enseñanza, asesoría a estud
       <img src="https://img.shields.io/badge/Unilibre-2023–Actualidad-555555?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h3>🎙️ <a href="https://tr.ee/s4bLtWPbXJ">El Parche Laboral</a></h3>
+      <h3>🎙️ <a href="https://open.spotify.com/show/0BVuPjISCYrLNI26wUYj8d">El Parche Laboral</a></h3>
       <p>Podcast sobre derechos laborales colombianos. Episodios sobre cesantías, IUS VARIANDI, estabilidad laboral, vacaciones y más. Co-autor y editor de contenidos.</p>
       <img src="https://img.shields.io/badge/Spotify-Podcast%20Laboral-2a2a2a?style=flat-square&logo=spotify&logoColor=white" />
       <img src="https://img.shields.io/badge/Unilibre-2023–Actualidad-555555?style=flat-square" />
