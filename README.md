@@ -27,26 +27,6 @@ Creo que el conocimiento jurídico y las herramientas digitales pueden trabajar 
 
 ---
 
-## ⚖️ Experiencia Profesional
-
-### 🏛️ Judicante — Consejo de Estado de Colombia
-**Feb. 2026 – Actualidad · Bogotá, Colombia**
-
-Estudio y análisis de expedientes de la jurisdicción contencioso-administrativa, revisión de jurisprudencia y normativa aplicable, elaboración de documentos de sustanciación y seguimiento de actuaciones judiciales en la **Sección Primera**.
-
-`Derecho Público` `Derecho Administrativo` `Jurisdicción Contencioso-Administrativa`
-
----
-
-### 📚 Monitor Académico — Área de Derecho Laboral | Universidad Libre
-**Feb. 2025 – Dic. 2025 · 11 meses · Bogotá, Colombia**
-
-Apoye a la docencia en preparación de material de enseñanza, asesoría a estudiantes en trabajos de investigación, evaluación académica y vigilancia de exámenes bajo supervisión del profesor titular.
-
-`Formación Docente` `Investigación Jurídica` `Derecho Laboral`
-
----
-
 ## 🚀 Proyectos
 
 <table>
